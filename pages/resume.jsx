@@ -107,7 +107,7 @@ const resume = () => {
 
         <div className='py-6'>
           <p className='py-1 italic'>San Jose State University</p>
-          <p className='py-1 italic'>Bachelor of Science in Computer Science</p>
+          <p className='py-1 italic'>Bachelor&#39;s of Science in Computer Science</p>
           <p className='italic'>
             <span className='font-bold italic'>
               Relevant Coursework
@@ -168,12 +168,12 @@ const resume = () => {
           feature-rich web application using Golang microservices, ensuring high performance and scalability. 
           In the field of game development, I designed and implemented a 2D adventure-based game using C++ and 
           SFML libraries. Through my optimization techniques, I achieved a remarkable 47.75% improvement in map 
-          storage and efficiency by dynamically allocating and deallocating aspects of a map's coordinates 
-          based on the player's location.
+          storage and efficiency by dynamically allocating and deallocating aspects of a map&#39;s coordinates 
+          based on the player&#39;s location.
         </p>
 
         <p>
-          &emsp;I hold a Bachelor's of Science degree in Computer Science from San Jose State University. 
+          &emsp;I hold a Bachelor&#39;s of Science degree in Computer Science from San Jose State University. 
           My coursework includes computer networks, data structures, and algorithms, and I have gained
           experience in various programming paradigms. Furthermore, I have obtained certifications from 
           JPMorgan & Chase Co. in software experience.
