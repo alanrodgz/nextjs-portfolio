@@ -107,7 +107,7 @@ const resume = () => {
 
         <div className='py-6'>
           <p className='py-1 italic'>San Jose State University</p>
-          <p className='py-1 italic'>Bachelor's of Science in Computer Science</p>
+          <p className='py-1 italic'>Bachelor of Science in Computer Science</p>
           <p className='italic'>
             <span className='font-bold italic'>
               Relevant Coursework
